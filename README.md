@@ -4,6 +4,8 @@
 This project is a fully responsive website showcasing and providing contact information about a local business 
 Built with React Tailwind CSS TypeScript and Django 
 
+**currently everything is in progress including this readme**
+
 ## Features
 - Landing page
 - Communication page
