@@ -1,6 +1,6 @@
 import React from 'react';
 
-const Communication: React.FC = () => {
+const Contact: React.FC = () => {
   return (
     <div className="flex flex-col items-center justify-center min-h-screen bg-gray-100">
       <h1 className="text-3xl font-bold mb-4">Here is our contact information</h1>
@@ -10,4 +10,4 @@ const Communication: React.FC = () => {
   );
 };
 
-export default Communication;
+export default Contact;
